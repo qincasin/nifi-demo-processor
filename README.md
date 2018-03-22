@@ -10,5 +10,7 @@ step 4: enter
 
 it will generate the nif project
 
+step 5: run at root level =>  mvn install
 
-step 5 : copy the .nar file into your nifi lib directory.
+
+step 6 : copy the .nar file into your nifi lib directory.
