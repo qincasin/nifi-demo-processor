@@ -6,7 +6,7 @@ step 2: "type" nifi "when it asks"
 
 step 3: "it asks again" 1
 
-step 4: enter
+step 4: press enter
 
 it will generate the nif project
 
