@@ -18,7 +18,11 @@ step 6 : copy the .nar file into your nifi lib directory.
 
 
 Define value for property 'groupId': : org.apache.nifi
+
 Define value for property 'artifactId': : nifi-helloworld-bundle
+
 Define value for property 'version':  1.0-SNAPSHOT: :
+
 Define value for property 'artifactBaseName': : helloworld
+
 Define value for property 'package':  org.apache.nifi.processors.helloworld: :
