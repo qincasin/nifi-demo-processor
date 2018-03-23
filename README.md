@@ -1,3 +1,5 @@
+https://nifi.apache.org/developer-guide.html
+
 step 1: To create NiFi Processor
 
 mvn archetype:generate
@@ -14,6 +16,8 @@ step 5: run at root level =>  mvn install
 
 
 step 6 : copy the .nar file into your nifi lib directory.
+
+
 
 
 
