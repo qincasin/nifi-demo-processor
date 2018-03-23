@@ -19,7 +19,7 @@ step 6 : copy the .nar file into your nifi lib directory.
 
 
 
-
+below is the example to give information when we are trying to create the process
 
 Define value for property 'groupId': : org.apache.nifi
 
