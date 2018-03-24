@@ -37,3 +37,6 @@ https://www.batchiq.com/database-ingest-with-nifi.html
 https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi
 
 https://community.hortonworks.com/idea/118504/data-inject-to-database-through-ni-fi.html
+
+
+https://www.youtube.com/watch?v=KApvTd3UPzo  ( need to go thru it)
