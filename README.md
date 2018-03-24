@@ -30,3 +30,10 @@ Define value for property 'version':  1.0-SNAPSHOT: :
 Define value for property 'artifactBaseName': : helloworld
 
 Define value for property 'package':  org.apache.nifi.processors.helloworld: :
+
+
+https://www.batchiq.com/database-ingest-with-nifi.html
+
+https://blogs.apache.org/nifi/entry/record-oriented-data-with-nifi
+
+https://community.hortonworks.com/idea/118504/data-inject-to-database-through-ni-fi.html
