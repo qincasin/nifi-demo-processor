@@ -40,3 +40,9 @@ https://community.hortonworks.com/idea/118504/data-inject-to-database-through-ni
 
 
 https://www.youtube.com/watch?v=KApvTd3UPzo  ( need to go thru it)
+
+https://www.youtube.com/watch?v=2w14d16wR8Y
+
+https://www.youtube.com/watch?v=r6I-Ahc0HB4 (iamshaunjp/regex-playlist)
+
+https://regex101.com/
