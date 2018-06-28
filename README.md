@@ -46,3 +46,5 @@ https://www.youtube.com/watch?v=2w14d16wR8Y
 https://www.youtube.com/watch?v=r6I-Ahc0HB4 (iamshaunjp/regex-playlist)
 
 https://regex101.com/
+
+mvn eclipse:eclipse -DdownloadSources=true
